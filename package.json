@@ -417,5 +417,13 @@
     "yargs": "^7.1.2",
     "yeast": "^0.1.2"
   },
-  "description": ""
+  "description": "��#\u0000 \u0000R\u0000u\u0000n\u0000S\u0000m\u0000a\u0000r\u0000t\u0000\r\u0000 \u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1yamotoo0/RunSmart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/M1yamotoo0/RunSmart/issues"
+  },
+  "homepage": "https://github.com/M1yamotoo0/RunSmart#readme"
 }

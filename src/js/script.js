@@ -1,1 +1,3 @@
-$('.carousel__list').slick();
+$('.carousel__list').slick({
+    
+});
