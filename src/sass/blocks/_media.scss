@@ -1,0 +1,33 @@
+@media (max-width: 1024px) {
+    .carousel {
+        .slick-prev {
+            left: -33px;
+            right: auto;
+        }
+        .slick-next {
+            right: -33px;
+            left: auto;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        justify-content: space-around;
+        &__logo {
+            width: 200px;
+        }
+    }
+    .promo {
+        background-position: 30%;
+        &__wrapper {
+            align-items: center;
+        }
+    }
+    .consultation {
+        text-align: center;
+    }
+    .feed-form {
+        margin: 0 auto;
+    }
+}

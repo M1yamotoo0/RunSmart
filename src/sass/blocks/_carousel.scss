@@ -22,7 +22,7 @@
         height: 50px;
         border: none;
         background-color: transparent;
-        background-image: url(../../img/carousel/carousel-arrow.png);
+        background-image: url(../img/carousel/carousel-arrow.png);
         background-position: center;
         background-repeat: no-repeat;
     }
@@ -30,5 +30,10 @@
         right: -66px;
         left: auto;
         transform: translateY(-50%) rotate(180deg);
+    }
+    .slick-dots {
+        list-style-type: none;
+        display: flex;
+        
     }
 }
