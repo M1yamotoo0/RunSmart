@@ -1,6 +1,6 @@
 .button {
     width: 150px;
-    background-color: $red_color;
+    background-color: $main_color;
     border: none;
     border-radius: 5px;
     color: #ffffff;
@@ -18,8 +18,13 @@
     }
     &--form {
         width: 100%;
-        font-weight: 500;
         font-size: 16px;
         padding: 17px 0;
+    }
+    &--mini {
+        width: 135px;
+        height: 44px;
+        font-size: 14px;
+        margin: 0;
     }
 }
